@@ -1,4 +1,7 @@
 # Mechanical Engineering
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasper%20Taffs-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasper-taffs-a5b818294/)
 
 # Projects
 
