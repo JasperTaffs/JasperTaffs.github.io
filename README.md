@@ -23,28 +23,18 @@ With the use of solidworks modelled a fully working V6 engine for each part and 
 Children with cochlear implants struggle with certain sounds due to the implants. To reduce the impact on their lives I designed and prototyped a sound recognition toy with the help of a parent group with children with cochlear implants. Through the use of speakers that can record then replay sounds with the parents being able to record sounds increasing familiarity therefore improving retention and recognision of important sounds in the English language. These specific sounds fall under specified frequency and loudness called the Speech banana. 
 
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/Capture.PNG" alt="Cochlear Implant" width="200"/><br/>
-      <sub>Capture</sub>
-    </td>
-    <td align="center">
-      <img src="assets/Cochlear_implant.jpg" alt="Cochlear Implant" width="200"/><br/>
-      <sub>Cochlear Implant</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/Cochlear_implant_close.jpg" alt="Cochlear Implant Close-up" width="200"/><br/>
-      <sub>Cochlear Implant Close-up</sub>
-    </td>
-    <td align="center">
-      <img src="assets/Explosion.PNG" alt="Explosion" width="200"/><br/>
-      <sub>Explosion</sub>
-    </td>
-  </tr>
-</table>
+<!-- Top Row: Cochlear Implant Images Side-by-Side -->
+<p align="center">
+  <img src="assets/Capture.PNG" alt="Capture" width="45%" style="margin-right:5%;" />
+  <img src="assets/cochlear_implant.jpg" alt="Cochlear Implant" width="45%" />
+</p>
+
+<!-- Bottom Row: Remaining Images Side-by-Side -->
+<p align="center">
+  <img src="assets/Cochlear_implant_close.jpg" alt="Cochlear Implant Close-up" width="45%" style="margin-right:5%;" />
+  <img src="assets/Explosion.PNG" alt="Explosion" width="45%" />
+</p>
+
 
 
 # On Going Projects
