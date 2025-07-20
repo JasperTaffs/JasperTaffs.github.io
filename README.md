@@ -28,7 +28,7 @@ These important sounds fall within a specific frequency and loudness range known
 <!-- Top Row: Side-by-side -->
 <p align="center">
   <img src="assets/Capture.PNG" alt="Capture" width="45%" style="margin-right:5%;" />
-  <img src="assets/cochlear_implant.jpg" alt="Cochlear Implant" width="45%" />
+  <img src="assets/Cochlear_implant.jpg" alt="Cochlear Implant" width="45%" />
 </p>
 
 <!-- Stacked Images Below -->
@@ -55,7 +55,5 @@ The concept involves a hydroelectric motor placed in a dinghy towed behind the s
   <img src="assets/Hydroelectric.JPG" alt="Hydroelectric" width="45%" />
 </p>
 
-  <img src="assets/Hydroelectric.JPG" alt="Hydroelectric" width="45%" />
-</p>
 
 
