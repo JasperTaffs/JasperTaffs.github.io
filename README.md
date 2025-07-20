@@ -30,7 +30,7 @@ Children with cochlear implants struggle with certain sounds due to the implants
       <sub>Capture</sub>
     </td>
     <td align="center">
-      <img src="assets/cochlear_implant.jpg" alt="Cochlear Implant" width="200"/><br/>
+      <img src="assets/Cochlear_implant.jpg" alt="Cochlear Implant" width="200"/><br/>
       <sub>Cochlear Implant</sub>
     </td>
   </tr>
