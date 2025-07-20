@@ -66,5 +66,8 @@ The concept involves a hydroelectric motor placed in a dinghy towed behind the s
 </p>
 
 
+<p align="center">
+  <img src="assets/IMG_0422.JPEG" alt="Propeller" width="80%" />
+</p>
 
 
