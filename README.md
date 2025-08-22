@@ -58,7 +58,7 @@ Sailing is a deep passion of mine, and I wanted to create a project focused on c
 The concept involves a hydroelectric motor placed in a dinghy towed behind the sailing boat. While underway, the system captures energy and stores it in batteries. This harvested energy can then be used to power the dinghy as an electric outboard motor or provide power to other essential systems on the sailing boat, reducing emissions and increasing efficiency.
 
 <p align="center">
-  <img src="assets/hydroelectric_inside.JPG" alt="Hydroelectric Inside" width="80%" />
+  <img src="assets/assem.JPG" alt="Hydroelectric Inside" width="80%" />
 </p>
 
 <p align="center">
