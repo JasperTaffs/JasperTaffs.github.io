@@ -62,7 +62,7 @@ The concept involves a hydroelectric motor placed in a dinghy towed behind the s
 </p>
 
 <p align="center">
-  <img src="assets/Updated_hydroelectric.jpg" alt="Hydroelectric" width="80%" />
+  <img src="assets/updatedhydro.jpg" alt="Hydroelectric" width="80%" />
 </p>
 
 
