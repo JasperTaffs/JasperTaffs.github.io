@@ -2,8 +2,33 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jasper%20Taffs-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasper-taffs-a5b818294/)
+---
 
-# Projects
+# Ongoing Projects
+
+### Hydroelectric Motor
+
+Sailing is a deep passion of mine, and I wanted to create a project focused on capturing energy while at sea. This project is still in the early stages and will be updated as it progresses.
+
+The concept involves a hydroelectric motor placed in a dinghy towed behind the sailing boat. While underway, the system captures energy and stores it in batteries. This harvested energy can then be used to power the dinghy as an electric outboard motor or provide power to other essential systems on the sailing boat, reducing emissions and increasing efficiency.
+
+<p align="center">
+  <img src="assets/assem.JPG" alt="Hydroelectric Inside" width="80%" />
+</p>
+
+<p align="center">
+  <img src="assets/updatedhydro.jpg" alt="Hydroelectric" width="80%" />
+</p>
+
+
+<p align="center">
+  <img src="assets/IMG_0422.JPEG" alt="Propeller" width="80%" />
+</p>
+
+
+
+
+# Completed Projects
 
 ### Modelling of a V6 Engine
 
@@ -46,28 +71,4 @@ These important sounds fall within a specific frequency and loudness range known
 <p align="center">
   <img src="assets/Explosion.PNG" alt="Explosion View" width="80%" />
 </p>
-
----
-
-# Ongoing Projects
-
-### Hydroelectric Motor
-
-Sailing is a deep passion of mine, and I wanted to create a project focused on capturing energy while at sea. This project is still in the early stages and will be updated as it progresses.
-
-The concept involves a hydroelectric motor placed in a dinghy towed behind the sailing boat. While underway, the system captures energy and stores it in batteries. This harvested energy can then be used to power the dinghy as an electric outboard motor or provide power to other essential systems on the sailing boat, reducing emissions and increasing efficiency.
-
-<p align="center">
-  <img src="assets/assem.JPG" alt="Hydroelectric Inside" width="80%" />
-</p>
-
-<p align="center">
-  <img src="assets/updatedhydro.jpg" alt="Hydroelectric" width="80%" />
-</p>
-
-
-<p align="center">
-  <img src="assets/IMG_0422.JPEG" alt="Propeller" width="80%" />
-</p>
-
 
